@@ -10,36 +10,35 @@ I am a __Machine Learning Enthusiast__ 💻 and a final year __Computer Science 
 - 🙇🏻   Learning __Django__ and __ROS__ (Robotic Operating System)
 
 ### What I know 🎓
-- __Programming Languages__   
-           - Python
-           - Java
-           - JavaScript (beginner)
-- __Libraries and Framework__
-           - Django
-           - Flask
-           - REST APIs
-- __Database__
-           - MySQL
-           - PostGres
-           - Oracle
-           - MongoDB
-- __Machine Learning and Analytisc__
-           - Sklearn
-           - PyTorch
-           - Pandas
-           - Numpy
-           - Seaborn
-           - Streamlit
-           - Plotly
-- __Other__
-           - Docker 
-           - 
+- __Programming Languages__           
+           - Python     
+           - Java     
+           - JavaScript (beginner)     
+- __Libraries and Framework__  
+           - Django     
+           - Flask       
+           - REST APIs      
+- __Database__  
+           - MySQL     
+           - PostGres     
+           - Oracle      
+           - MongoDB     
+- __Machine Learning and Analytisc__   
+           - Sklearn     
+           - PyTorch     
+           - Pandas     
+           - Numpy     
+           - Seaborn      
+           - Streamlit      
+           - Plotly      
+- __Other__            
+           - Docker   
+           - Android Development
            
 
-[![Views](http://hits.dwyl.com/mrmalik01/mrmalik01.svg)](http://hits.dwyl.com/mrmalik01/mrmalik01)
 
 ### Follow me on 👨🏻‍💻 
-
+[![Views](http://hits.dwyl.com/mrmalik01/mrmalik01.svg)](http://hits.dwyl.com/mrmalik01/mrmalik01)
 <a href="https://www.linkedin.com/in/malikkhizar1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/khizarmalik.ai" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
