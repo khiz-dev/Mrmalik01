@@ -3,16 +3,20 @@
 ## Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 I am a __Machine Learning Enthusiast__ 💻 and a final year __Computer Science student__ 🎓 at Queen Mary University of London, pursing a Bachelors in Computer Science, who is passionate about developing exciting __softwares__ and __smart engines__. 
 
-### Current Projects 🚀
+### 🚀 Current Projects 
 - 🤔  Researching on __NLP__ and __Robotic perception__ (final-year project).
 - 👨🏻‍💻 Developing a __backend engine__ for a social media based application.
 - 🔧   Working on my __personal website__.
 - 🙇🏻   Learning __Django__ and __ROS__ (Robotic Operating System)
 
+### 🎓 What I know 
+- __Programming Languages__   
+           - Python
+           - 
 
 [![Views](http://hits.dwyl.com/mrmalik01/mrmalik01.svg)](http://hits.dwyl.com/mrmalik01/mrmalik01)
 
-### Follow me on 👨🏻‍💻 - 
+### 👨🏻‍💻 Follow me on  - 
 
 <a href="https://www.linkedin.com/in/malikkhizar1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/khizarmalik.ai" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
