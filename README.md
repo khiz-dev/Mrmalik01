@@ -3,6 +3,11 @@
 ## Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 I am a __Machine Learning Enthusiast__ 💻 and a final year __Computer Science student__ 🎓 at Queen Mary University of London, pursing a Bachelors in Computer Science, who is passionate about developing exciting __softwares__ and __smart engines__. 
 
+### Current Projects 🚀
+- 🤔  Researching on __NLP__ and __Robotic perception__ (final-year project).
+- 👨🏻‍💻 Developing a __backend engine__ for a social media based application.
+- 🔧   Working on my __personal website__.
+- 🙇🏻   Learning __Django__ and __ROS__ (Robotic Operating System)
 
 
 [![Views](http://hits.dwyl.com/mrmalik01/mrmalik01.svg)](http://hits.dwyl.com/mrmalik01/mrmalik01)
