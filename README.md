@@ -1,10 +1,8 @@
 ![About Me](https://github.com/Mrmalik01/resource/blob/master/github/profilebanner.gif)
-<span style="font-family: neuzeit-grotesk, sans-serif;">
 ---
 ## Hello World <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-I am a Machine Learning Enthusiast and a final year computer science student at Queen Mary University of London, pursing a Bachelors in Computer Science, who is passionate about developing exciting softwares and smart engines. 
-  
-</span>
+I am a __Machine Learning Enthusiast__ and a final year __Computer Science student__ at Queen Mary University of London, pursing a Bachelors in Computer Science, who is passionate about developing exciting __softwares__ and __smart engines__. 
+ 
 <!--
 **Mrmalik01/Mrmalik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
