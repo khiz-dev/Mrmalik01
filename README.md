@@ -1,4 +1,6 @@
-### Hi there 👋
+![About Me](https://github.com/Mrmalik01/resource/blob/master/github/profilebanner.gif)
+
+---
 
 <!--
 **Mrmalik01/Mrmalik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
