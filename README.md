@@ -11,29 +11,19 @@ I am a __Machine Learning Enthusiast__ 💻 and a final year __Computer Science 
 
 ### What I know 🎓
 - __Programming Languages__           
-           - Python     
-           - Java     
-           - JavaScript (beginner)     
+Python | Java | JavaScript (beginner)     
+  
 - __Libraries and Framework__  
-           - Django     
-           - Flask       
-           - REST APIs      
+Django | Flask | REST APIs      
+   
 - __Database__  
-           - MySQL     
-           - PostGres     
-           - Oracle      
-           - MongoDB     
+MySQL | PostGres | Oracle | MongoDB     
+
 - __Machine Learning and Analytisc__   
-           - Sklearn     
-           - PyTorch     
-           - Pandas     
-           - Numpy     
-           - Seaborn      
-           - Streamlit      
-           - Plotly      
+Sklearn | PyTorch | Pandas | Numpy | Seaborn | Streamlit | Plotly      
+
 - __Other__            
-           - Docker   
-           - Android Development
+Docker | Android Development
            
 
 
