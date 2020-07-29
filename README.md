@@ -26,7 +26,6 @@ Sklearn | PyTorch | Pandas | Numpy | Seaborn | Streamlit | Plotly
 Docker | Android Development
            
 
-
 ### Follow me on 👨🏻‍💻 
 [![Views](http://hits.dwyl.com/mrmalik01/mrmalik01.svg)](http://hits.dwyl.com/mrmalik01/mrmalik01)
 <a href="https://www.linkedin.com/in/malikkhizar1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
